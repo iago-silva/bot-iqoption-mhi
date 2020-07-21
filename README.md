@@ -10,7 +10,7 @@
 - Navegue até a pasta do projeto
 - Rode o seguinte comando "python mhi.py"
 - O programa vai pedir 3 informações
-    - O par no qual vai operar (ex: EURUSD, EURUSD-OTC...)
+    - O par no qual vai operar (ex: EURUSD)
     - Seu Stop Gain (O Stop Loss é o HIT)
     - Quantidade de ciclos do MHI para atingir a meta
 
