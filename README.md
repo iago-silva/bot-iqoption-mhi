@@ -3,12 +3,14 @@
 - Windows 10
 - Python 3.8.3
 
+(lembrar de baixar o [projeto da api](https://github.com/Lu-Yi-Hsun/iqoptionapi) e rodar o comando `python setup.py install` para instalar as dependências necessárias para o seu python)
+
 # Modo de usar
 
 - Abra o arquivo "mhi.py" e altere as constantes EMAIL e SENHA com as suas credenciais da corretora
 - Abra o CMD
 - Navegue até a pasta do projeto
-- Rode o seguinte comando "python mhi.py"
+- Rode o seguinte comando `python mhi.py`
 - O programa vai pedir 3 informações
     - O par no qual vai operar (ex: EURUSD)
     - Seu Stop Gain (O Stop Loss é o HIT)
