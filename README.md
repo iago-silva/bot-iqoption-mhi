@@ -29,3 +29,7 @@ Digamos que o programa está rodando na seguinte situação:
 | Payout atual do par | 90% |
 
 O programa vai fazer 2 ciclos do MHI com entrada base de 5,56. Dessa forma, com base no payout atual, se você ganhar os 2 ciclos, sairá com 10 de lucro
+
+# Anotações
+
+Este bot foi criado em Julho de 2020, talvez não esteja mais funcional
