@@ -32,4 +32,4 @@ O programa vai fazer 2 ciclos do MHI com entrada base de 5,56. Dessa forma, com 
 
 # Anotações
 
-Este bot foi criado em Julho de 2020, talvez não esteja mais funcional
+Este bot foi criado em Julho de 2020, talvez não esteja mais funcionando
